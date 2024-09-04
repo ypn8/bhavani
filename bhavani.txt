@@ -1,0 +1,8 @@
+<html>
+	<head> this is git bash </head>[D[D[D[D[D[D[D[D</title> </head>[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D<[D[D [C[C[C[C[C
+[A[C[C[C[C[C[C[C[C[C[C<head>
+	<title> this is git bash </title>
+   </head>
+   <body>
+	<h1> welcome to cloud computing </h1>
+	[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[Chtml[B[B[B[B[B[B[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D</body>
